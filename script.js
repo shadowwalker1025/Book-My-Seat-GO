@@ -117,4 +117,4 @@ seatsSelectedQuantity = parseInt(e.target.value)
 
     //Uncomment the below statement to clear the all locally stored data.
 
-    localStorage.clear();
+    // localStorage.clear();
